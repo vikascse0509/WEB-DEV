@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(165, 238, 165);
+}
+.container{
+    max-width: 500px;
+    margin: 200px auto;
+    background-color: whitesmoke;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgb(95, 90, 85);
+}
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
